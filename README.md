@@ -25,4 +25,4 @@ To run this application, you need Python 3 and the following packages:
 You can install the required packages using pip: pip install yfinance plotly webview
 
 Usage
-Enter a stock ticker (e.g., 'AAPL' for Apple Inc.) to fetch data and select the type of chart you wish to view. For stock comparison, enter two different stock tickers.
+Run the Personal Project Final.py script to open the GUI. Enter a stock ticker (e.g., 'AAPL' for Apple Inc.) to fetch data and select the type of chart you wish to view. For stock comparison, enter two different stock tickers.
