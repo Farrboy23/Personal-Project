@@ -1,6 +1,7 @@
 Stock Analysis Tool
 
 Description
+
 This Python application provides an interactive tool for fetching, analyzing, and visualizing stock data from Yahoo Finance. It offers various chart types including candlestick charts, historical price charts, daily returns, and moving average visualizations, alongside a feature to compare two different stocks over a specified period.
 
 Features
@@ -16,6 +17,7 @@ Features
 5. Error handling and user notifications via message boxes.
 
 Installation
+
 To run this application, you need Python 3 and the following packages:
 1. yfinance
 2. Plotly
